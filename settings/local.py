@@ -1,3 +1,6 @@
+# when nested under settings/, rename settings.py to local.py or dev.py
+# separate local vs. deployment settings
+
 """
 Django settings for dynowiki project.
 
