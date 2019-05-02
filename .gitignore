@@ -1,2 +1,7 @@
 /djangowiki
+/your-venv-env
 .vscode/
+__pycache__
+db.sqlite3
+yourapp/static
+/media
